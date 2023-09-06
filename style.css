@@ -10,3 +10,9 @@
 .red {
     background-color: red;
 }
+
+.menu {
+	background-color: green;
+	height: auto;
+	width:	auto !important;
+}
